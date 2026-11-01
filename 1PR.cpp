@@ -138,7 +138,6 @@ int main()
     cout << "B1      = " << tB1 << endl;
     cout << "D1      = " << tD1 << endl;
     cout << "Total   = " << total << endl;
-
     delete[] a;
     delete[] b;
     delete[] c;
